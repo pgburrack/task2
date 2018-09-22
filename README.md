@@ -1,5 +1,5 @@
 # task2
 
-this task is mean for learning many things
+this task is meant for learning many things
 
-ue it as you like
+use it as you like
