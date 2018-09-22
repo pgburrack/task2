@@ -1,7 +1,7 @@
 # task2
 
-this task is meant for learning and practicing many things 
+this task is meant for trying many things
 
-use it as you like
+use it as you like and use it well
 
-we need to add more thing to the file
+adding important description
